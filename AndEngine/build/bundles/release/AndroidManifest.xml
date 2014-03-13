@@ -1,0 +1,7 @@
+<!-- From: file:/Users/guillaume/Documents/workspace_android/workAndEngine/AndEngine/AndroidManifest.xml -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="org.andengine">
+
+	<uses-sdk android:minSdkVersion="8" android:targetSdkVersion="8"/>
+
+	<application android:debuggable="true"/>
+</manifest>

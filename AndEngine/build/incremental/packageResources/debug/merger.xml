@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/guillaume/Documents/workspace_android/workAndEngine/AndEngine/res" />
+        <source path="/Users/guillaume/Documents/workspace_android/workAndEngine/AndEngine/build/res/rs/debug" />
+        <source path="/Users/guillaume/Documents/workspace_android/workAndEngine/AndEngine/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/guillaume/Documents/workspace_android/workAndEngine/AndEngine/src/debug/res" />
+    </dataSet>
+
+</merger>

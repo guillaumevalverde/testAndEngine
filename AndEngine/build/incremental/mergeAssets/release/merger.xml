@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/guillaume/Documents/workspace_android/workAndEngine/AndEngine/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/guillaume/Documents/workspace_android/workAndEngine/AndEngine/src/release/assets" />
+    </dataSet>
+
+</merger>
